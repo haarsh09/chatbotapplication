@@ -1,4 +1,3 @@
-llama-index => pip install llama-index
-openai - pip install openai
-openai api key
+pip install llama-index
+pip install openai
 streamlit => pip install streamlit
