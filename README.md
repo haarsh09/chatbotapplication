@@ -55,7 +55,7 @@ chatbot-assignment/
 
 5. **Run the application**
     ```sh
-    streamlit run app.py
+    streamlit run chatbot.py
     ```
 
 ## Design Decisions
