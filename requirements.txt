@@ -175,9 +175,8 @@ opt-einsum==3.3.0
 orderedmultidict==1.0.1
 orjson==3.10.3
 packaging==23.2
-pandas==1.5.2
-pandas-profiling==3.6.6
-pandocfilters==1.5.0
+
+
 parso==0.8.3
 pathlib2==2.3.7.post1
 patsy==0.5.3
