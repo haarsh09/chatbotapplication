@@ -31,9 +31,10 @@ FALLBACK_RESPONSE = "I'm sorry, I don't have an answer to that. Can you please r
 
 def main():
     st.header("Chat with a customer care agent to resolve queries!!")
+    knowledgebase_dir = 'knowledgebase'
 
     
-    reader = SimpleDirectoryReader(input_dir='C:\\Users\\Harsh Pathak\\Desktop\\chatbotassignment\\knowledgebase', recursive=True)
+    reader = SimpleDirectoryReader(input_dir='knowledgebase', recursive=True)
     docs = reader.load_data()
 
     
