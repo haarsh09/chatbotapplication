@@ -1,12 +1,4 @@
 
-
-huggingface-hub==0.23.2
-langchain==0.2.3
-langchain-community==0.2.4
-langchain-core==0.2.5
-langchain-openai==0.1.8
-langchain-text-splitters==0.2.1
-langsmith==0.1.76
 llama-index==0.10.45
 llama-index-agent-openai==0.2.7
 llama-index-cli==0.1.12
@@ -25,16 +17,7 @@ llamaindex-py-client==0.1.19
 ollama==0.2.0
 openai==1.33.0
 python-dotenv==1.0.1
-python-json-logger==2.0.4
-python-multipart==0.0.9
-pytz==2022.6
-pywinpty==2.0.9
-safetensors==0.4.3
-sentence-transformers==3.0.1
 streamlit==1.35.0
-tokenizers==0.13.3
-toml==0.10.2
-tomli==2.0.1
 
 
 
